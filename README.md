@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 
-=======
-
->>>>>>> feature-login
 
 
 
@@ -11,6 +7,7 @@ Learning Git from Scratch
 
 
 Author: Jyoti Jagtap
+
 
 Day 3 Learning
 
@@ -33,4 +30,32 @@ Day 5 Practice
 Day 7 Learning
 Feature:
 Dashboard Module
+=======
+
+
+Day 1 Completed
+
+
+
+Git Commands Learned:
+
+\- git init
+
+\- git status
+
+\- git add
+
+\- git commit
+
+\- git log
+
+Project Nam:  QA Project
+Branch: Feature-login
+
+Feature:
+- Login Testing
+- OTP Validation
+- Password Reset
+
+>>>>>>> main
 
